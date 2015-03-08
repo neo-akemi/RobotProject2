@@ -1,0 +1,3 @@
+<launch>
+<node name="kinect_listener" pkg="kinect_baxter" type="kinect_listener"/>
+</launch>
